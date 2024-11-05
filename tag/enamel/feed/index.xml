@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Enamel &#8211; Alif-dental</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2019 10:30:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
+	<title>Enamel &#8211; Alif-dental</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How does tooth enamel last a lifetime?</title>
+		<link>./../../../2019/11/25/how-does-tooth-enamel-last-a-lifetime/index.html</link>
+					<comments>./../../../2019/11/25/how-does-tooth-enamel-last-a-lifetime/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[BoldThemes]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 10:30:44 +0000</pubDate>
+				<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Teeth]]></category>
+		<category><![CDATA[Enamel]]></category>
+		<guid isPermaLink="false">http://showcase.bold-themes.com/eiusmond/?p=1</guid>
+
+					<description><![CDATA[Tooth enamel is the hardest substance in the human body, but, until now, no one knew how it managed to last a lifetime. The authors of a recent study conclude that enamel's secret lies in the imperfect alignment of crystals.]]></description>
+										<content:encoded><![CDATA[<p>If we cut our skin or break a bone, these tissues will repair themselves; our bodies are excellent at recovering from injury.</p>
+<p>Tooth enamel, however, cannot regenerate, and the oral cavity is a hostile environment.</p>
+<p>Every mealtime, enamel is put under incredible stress; it also weathers extreme changes in both pH and temperature.</p>
+<p>Despite this adversity, the tooth enamel that we develop as a child remains with us throughout our days.</p>
+<p>Researchers have long been interested in how enamel manages to stay functional and intact for a lifetime.</p>
+<p>As one of the authors of the latest study, Prof. Pupa Gilbert from the University of Wisconsin–Madison puts it, &#8220;How does it prevent catastrophic failure?&#8221;</p>
+<h3>The secrets of enamel</h3>
+<p>With assistance from researchers at the Massachusetts Institute of Technology (MIT) in Cambridge and the University of Pittsburgh, PA, Prof. Gilbert took a detailed look at the structure of enamel.</p>
+<p>The team of scientists has now published the results of its study in the journal Nature Communications.</p>
+<p>Enamel is made up of so-called enamel rods, which consist of hydroxyapatite crystals. These long, thin enamel rods are around 50 nanometers wide and 10 micrometers long.</p>
+<p>By using cutting edge imaging technology, the scientists could visualize how individual crystals in tooth enamel are aligned. The technique, which Prof. Gilbert designed, is called polarization-dependent imaging contrast (PIC) mapping.</p>
+<p>Before the advent of PIC mapping, it was impossible to study enamel with this level of detail. &#8220;[Y]ou can measure and visualize, in color, the orientation of individual nanocrystals and see many millions of them at once,&#8221; explains Prof. Gilbert.</p>
+<blockquote><p>The architecture of complex biominerals, such as enamel, becomes immediately visible to the naked eye in a PIC map.</p></blockquote>
+<p>When they viewed the structure of enamel, the researchers uncovered patterns. &#8220;By and large, we saw that there was not a single orientation in each rod, but a gradual change in crystal orientations between adjacent nanocrystals,&#8221; explains Gilbert. &#8220;And then the question was, &#8216;Is this a useful observation?'&#8221;</p>
+<h3>The importance of crystal orientation</h3>
+<p>To test whether the change in crystal alignment influences the way that enamel responds to stress, the team recruited help from Prof. Markus Buehler of MIT. Using a computer model, they simulated the forces that hydroxyapatite crystals would experience when a person chews.</p>
+<p>Within the model, they placed two blocks of crystals next to each other so that the blocks touched along one edge. The crystals within each of the two blocks were aligned, but where they came in contact with the other block, the crystals met at an angle.</p>
+<p>To investigate, co-author Cayla Stifler returned to the original PIC mapping information and measured the angles between adjacent crystals. After generating millions of data points, Stifler found that 1 degree was the most common size of misorientation, and the maximum was 30 degrees.</p>
+<p>This observation agreed with the simulation — smaller angles seem better able to deflect cracks.</p>
+<blockquote><p>Now we know that cracks are deflected at the nanoscale and, thus, can&#8217;t propagate very far. That&#8217;s the reason our teeth can last a lifetime without being replaced.</p>
+<p><cite>Prof. Pupa Gilbert</cite></p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2019/11/25/how-does-tooth-enamel-last-a-lifetime/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

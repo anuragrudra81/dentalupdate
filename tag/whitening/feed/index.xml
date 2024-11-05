@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whitening &#8211; Alif-dental</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Oct 2019 10:20:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
+	<title>Whitening &#8211; Alif-dental</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How whitening strips can damage your teeth</title>
+		<link>./../../../2019/10/16/how-whitening-strips-can-damage-your-teeth/index.html</link>
+					<comments>./../../../2019/10/16/how-whitening-strips-can-damage-your-teeth/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[BoldThemes]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2019 10:20:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Prevention]]></category>
+		<category><![CDATA[Whitening]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<guid isPermaLink="false">http://showcase.bold-themes.com/home-made/?p=251</guid>
+
+					<description><![CDATA[Teeth are an important part of physical appearance for many people, and they want to show a bright white smile. However, a new study reveals that many tooth whitening products can damage the teeth.]]></description>
+										<content:encoded><![CDATA[<blockquote><p>Our results showed that treatment with hydrogen peroxide similar to those found in whitening strips is enough to make the original collagen protein disappear, which is presumably due to the formation of many smaller fragments.</p>
+<p><cite>Kelly Keenan</cite></p></blockquote>
+<p>The team is not yet sure whether this damage is permanent or if there is any way of reversing it. In the future, the researchers also plan to find out whether hydrogen peroxide affects not just collagen, but also other proteins that dentin contains.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2019/10/16/how-whitening-strips-can-damage-your-teeth/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
